@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img allign= "right" alt="Alice-gif" src="https://discord.com/channels/@me/754747066462502912/990034431211356254">
+  <img align= "right" alt="Alice-gif" src="https://discord.com/channels/@me/754747066462502912/990034431211356254">
   
   
 </div>
