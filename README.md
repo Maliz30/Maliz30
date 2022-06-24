@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+  <img allign= "right" alt="Alice-gif" src="https://discord.com/channels/@me/754747066462502912/990034431211356254">
+  
+  
+</div>
+
 ![Snake animation](https://github.com/Maliz30/Maliz30/blob/output/github-contribution-grid-snake.svg)
