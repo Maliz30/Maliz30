@@ -1,6 +1,50 @@
-### Hi there 👋
+<h2 align="left"> Hi!!   I'm Alice </h2>
+
+- I'm currently learning C and Node JS. 
+
+
+
+<div align="center">
+  <a href="https://github.com/Maliz30">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maliz30&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliz30&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
+ ![Snake animation](https://github.com/Maliz30/Maliz30/blob/output/github-contribution-grid-snake.svg)
+  
+##
+  
+### About me
+
+
+<div>
+  <img align= "right" height="120" width="120" alt="Alice-gif" src="https://user-images.githubusercontent.com/105389239/175746813-5e790a2a-6293-45a6-8463-e690cddb9eb7.gif">
+</div>
+
+
+- I'm 18 years old, I live in Brazil and I love cats.
+
+### Contacts and Social
+  
+  
+  <!-- colocar imagens -->
+<div> 
+   <a href="https://www.linkedin.com/in/maria-alice-silva-1074411b9/" target="_blank"><img src="" target="_blank"></a> 
+  
+   <a href="https://codepen.io/alice30/pens/showcase"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white0"></a>
+  
+   <a href = "mailto:marialice3003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+   <a href="https://www.instagram.com/m4ri_alice/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+   <a href="https://www.twitch.tv/eu_alice3" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+</div>
+
+
 
 <!--
+
+### Hi there 👋
 **Maliz30/Maliz30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,12 +58,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-<div>
-  <img align= "right" height="120" width="120" alt="Alice-gif" src="https://user-images.githubusercontent.com/105389239/175746813-5e790a2a-6293-45a6-8463-e690cddb9eb7.gif">
-</div>
-
-![Snake animation](https://github.com/Maliz30/Maliz30/blob/output/github-contribution-grid-snake.svg)
