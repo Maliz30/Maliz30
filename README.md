@@ -2,7 +2,7 @@
 
 - I'm currently learning C and Node JS. 
 
-
+<br>
 
 <div align="center">
   <a href="https://github.com/Maliz30">
@@ -23,17 +23,18 @@
 
 
 - I'm 18 years old, I live in Brazil and I love cats.
+  <br>
 
 ##
   
 ### Contacts and Social
   
   
-  <!-- colocar imagens -->
-<div> 
+  <!-- colocar imagens, alinhar gif e alinhar imagens -->
+<div style="display: inline_block"> 
    <a href="https://www.linkedin.com/in/maria-alice-silva-1074411b9/" target="_blank"><img src="" target="_blank"></a> 
   
-   <a href="https://codepen.io/alice30/pens/showcase"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white0"></a>
+   <a href="https://codepen.io/alice30/pens/showcase"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white0" target="_blank"></a>
   
    <a href = "mailto:marialice3003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
