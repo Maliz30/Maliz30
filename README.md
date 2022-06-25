@@ -12,8 +12,7 @@
 
  ![Snake animation](https://github.com/Maliz30/Maliz30/blob/output/github-contribution-grid-snake.svg)
   
-##
-
+  ##
 <div>
     <img align= "right" height="120" width="120" alt="Alice-gif" src="https://user-images.githubusercontent.com/105389239/175746813-5e790a2a-6293-45a6-8463-e690cddb9eb7.gif">
   <h3 align= "left"> About me </div>
@@ -23,11 +22,9 @@
   <br>  
 </div>
 
-##
-  
+ ##
 ### Contacts and Social Media
-  
-  <!-- colocar imagens, alinhar gif e alinhar imagens -->
+
 <div style="display: inline_block"> 
    <a href="https://www.linkedin.com/in/maria-alice-silva-1074411b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://codepen.io/alice30/pens/showcase"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white0" target="_blank"></a>
