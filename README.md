@@ -1,4 +1,4 @@
-# Hi!!   I'm Alice
+## Hi!!   I'm Alice
 
 - I'm currently learning C and Node JS. 
 
@@ -14,7 +14,7 @@
   
 ##
   
-## About me
+### About me
 
 
 <div>
@@ -27,7 +27,7 @@
 
 ##
   
-## Contacts and Social
+### Contacts and Social
   
   
   <!-- colocar imagens, alinhar gif e alinhar imagens -->
