@@ -15,19 +15,19 @@
 ##
 
 <div>
-  ### About me
+  <h3 align= "left"> About me </div>
   
   <img align= "right" height="120" width="120" alt="Alice-gif" src="https://user-images.githubusercontent.com/105389239/175746813-5e790a2a-6293-45a6-8463-e690cddb9eb7.gif">
   
   - I'm 18 years old, I live in Brazil and I love cats.
+  
+  <br><br>
+  
 </div>
-
-  <br>
 
 ##
   
 ### Contacts and Social Media
-  
   
   <!-- colocar imagens, alinhar gif e alinhar imagens -->
 <div style="display: inline_block"> 
