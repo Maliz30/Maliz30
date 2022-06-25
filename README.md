@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Maliz30">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Maliz30&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliz30&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maliz30&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliz30&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
  ![Snake animation](https://github.com/Maliz30/Maliz30/blob/output/github-contribution-grid-snake.svg)
