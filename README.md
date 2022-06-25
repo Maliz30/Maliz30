@@ -27,7 +27,7 @@
 
 ##
   
-### Contacts and Social
+### Contacts and Social Media
   
   
   <!-- colocar imagens, alinhar gif e alinhar imagens -->
