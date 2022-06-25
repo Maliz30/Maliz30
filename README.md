@@ -13,16 +13,15 @@
  ![Snake animation](https://github.com/Maliz30/Maliz30/blob/output/github-contribution-grid-snake.svg)
   
 ##
-  
-### About me
-
 
 <div>
+  ### About me
+  
   <img align= "right" height="120" width="120" alt="Alice-gif" src="https://user-images.githubusercontent.com/105389239/175746813-5e790a2a-6293-45a6-8463-e690cddb9eb7.gif">
+  
+  - I'm 18 years old, I live in Brazil and I love cats.
 </div>
 
-
-- I'm 18 years old, I live in Brazil and I love cats.
   <br>
 
 ##
