@@ -32,7 +32,7 @@
   
   <!-- colocar imagens, alinhar gif e alinhar imagens -->
 <div style="display: inline_block"> 
-   <a href="https://www.linkedin.com/in/maria-alice-silva-1074411b9/" target="_blank"><img src="" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/maria-alice-silva-1074411b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    <a href="https://codepen.io/alice30/pens/showcase"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white0" target="_blank"></a>
   
