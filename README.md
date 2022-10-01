@@ -1,6 +1,6 @@
-## Hi!!   I'm Alice
+## Oii, Eu sou a Maria Alice
 
-- I'm currently learning C and Node JS. 
+- Atualmente estou aprendendo C, ReactJs e NodeJs.
 
 <br>
 
@@ -15,15 +15,20 @@
   ##
 <div>
     <img align= "right" height="120" width="120" alt="Alice-gif" src="https://user-images.githubusercontent.com/105389239/175746813-5e790a2a-6293-45a6-8463-e690cddb9eb7.gif">
-  <h3 align= "left"> About me </div>
+  <h3 align= "left"> Sobre mim </div>
     
-  - I'm 18 years old, I live in Brazil and I love cats.
+  - Tenho 18 anos, 
+  - Moro no entorno de Brasília(Brasil)
+  - Amo gatos
+  - Curso Engenharia de Software na Universidade de Brasília
+  - Participo da Empresa Júnior do meu curso, Orc'estra Gamificação, como assessora de projetos e também do Squad de capacitação, onde organizamos capacitações para os demais menbros da empresa
+
   
   <br>  
 </div>
 
  ##
-### Contacts and Social Media
+### Minhas redes
 
 <div style="display: inline_block"> 
    <a href="https://www.linkedin.com/in/maria-alice-silva-1074411b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
