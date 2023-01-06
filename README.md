@@ -1,6 +1,6 @@
 ## Oii, Eu sou a Maria Alice
 
-- Atualmente estou aprendendo C, java, ReactJs e NodeJs.
+- Atualmente estou aprendendo C, java, ReactJs, NodeJs e Python.
 
 <br>
 
