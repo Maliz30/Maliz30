@@ -21,7 +21,7 @@
   - Moro no entorno de Brasília (Brasil)
   - Amo gatos
   - Curso Engenharia de Software na Universidade de Brasília
-  - Participo da Empresa Júnior do meu curso, Orc'estra Gamificação, como assessora de projetos e também do Squad de capacitação, onde organizamos capacitações para os demais menbros da empresa
+  - Participo da Empresa Júnior do meu curso, Orc'estra Gamificação, como assessora de projetos e também organizamos capacitações para os demais menbros da empresa
 
   
   <br>  
