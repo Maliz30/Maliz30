@@ -6,9 +6,17 @@
 
 <div align="center">
   <a href="https://github.com/Maliz30">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maliz30&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliz30&layout=compact&langs_count=7&theme=midnight-purple"/>
+  
 </div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=Maliz30&show_icons=true&rank_icon=github&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliz30&layout=compact&langs_count=10&theme=midnight-purple&hide=html"/>
+  </a>
+ </div>
 
  ![Snake animation](https://github.com/Maliz30/Maliz30/blob/output/github-contribution-grid-snake.svg)
   
