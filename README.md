@@ -18,7 +18,7 @@
   </a>
  </div>
 
- ![Snake animation](https://github.com/Maliz30/Maliz30/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Maliz30/Maliz30/blob/main/assets/github-contribution-grid-snake.svg)
   
   ##
 <div>
