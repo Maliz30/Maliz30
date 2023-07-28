@@ -29,29 +29,34 @@
   
   ##
 <div>
-    <img align= "right" height="120" width="120" alt="Alice-gif" src="https://user-images.githubusercontent.com/105389239/175746813-5e790a2a-6293-45a6-8463-e690cddb9eb7.gif">
-  <h3 align= "left"> Sobre mim </div>
+  <img align= "right" height="120" width="120" alt="Alice-gif" src="https://user-images.githubusercontent.com/105389239/175746813-5e790a2a-6293-45a6-8463-e690cddb9eb7.gif">
+  <h3 align= "left"> Sobre mim </h3>
     
   - Tenho 19 anos, 
   - Moro no entorno de Brasília (Brasil)
   - Amo gatos
   - Curso Engenharia de Software na Universidade de Brasília
-  - Participo da Empresa Júnior do meu curso, Orc'estra Gamificação, como assessora de projetos e também organizamos capacitações para os demais menbros da empresa
+  - Participo da Empresa Júnior do meu curso, Orc'estra Gamificação, como coordenadora de gestão do conhecimento e capacitação, além de auxiliar em diversas atividades da diretoria de projetos
 
   
   <br>  
 </div>
 
- ##
-### Minhas redes
-
+ ##  
 <div style="display: inline_block"> 
-   <a href="https://www.linkedin.com/in/maria-alice-silva-1074411b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://codepen.io/alice30/pens/showcase"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white0" target="_blank"></a>
-   <a href = "mailto:marialice3003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/m4ri_alice/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.twitch.tv/eu_alice3" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <img align="right" width="120" alt="Ghost-gif" src="https://38.media.tumblr.com/d30fe069cc48e11eeb31ae08293a159e/tumblr_nbtdxg9d6n1szf0nzo1_250.gif">
+  
+  <h3 align= "left"> Minhas redes</h3>
+  <a href="https://www.linkedin.com/in/maria-alice-silva-1074411b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:marialice3003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://codepen.io/alice30/pens/showcase"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white0" target="_blank"></a>
+  <a href="https://www.instagram.com/m4ri_alice/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/eu_alice3" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
+  
+
+
+
 
 
 
