@@ -32,7 +32,7 @@
   <img align= "right" height="120" width="120" alt="Alice-gif" src="https://user-images.githubusercontent.com/105389239/175746813-5e790a2a-6293-45a6-8463-e690cddb9eb7.gif">
   <h3 align= "left"> Sobre mim </h3>
     
-  - Tenho 19 anos, 
+  - Tenho 20 anos, 
   - Moro no entorno de Brasília (Brasil)
   - Amo gatos
   - Curso Engenharia de Software na Universidade de Brasília
